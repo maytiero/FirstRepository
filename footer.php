@@ -1,3 +1,3 @@
 <?php
-    echo "Good bye";
+    echo "Good bye!<br>SOme text";
 ?>
